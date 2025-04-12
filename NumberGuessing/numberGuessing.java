@@ -1,3 +1,4 @@
+package NumberGuessing;
 import java.util.Scanner;
 import java.util.Random;
 
